@@ -1,2 +1,2 @@
-# resume
-a resume project
+# VC
+a VC project
